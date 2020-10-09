@@ -1,0 +1,26 @@
+@font-face{
+	font-family: Lobster;
+	src:url(Lobster-Regular.ttf);
+}
+.logo_style{
+	margin-left: 30px;
+	font-family: Lobster;
+}
+.imgsize{
+	width: 50px;
+	height: 50px;
+}
+.divlabel{
+	margin: 10px;
+}
+input[type="text"]{
+	margin-left: 100px;
+	width: 25%;
+	height: 50px;
+	padding: 40px;
+}
+.footer{
+	width: 100%;
+	height: 30px;
+	background-color:grey;
+}
